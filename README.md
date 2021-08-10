@@ -1,4 +1,4 @@
-[![github-actions](https://github.com/mathisve/terraform-aws-autoscaling-group/workflows/terraform.yaml/badge.svg)](https://github.com/mathisve/terraform-aws-autoscaling-group/actions)
+![github-actions](https://github.com/mathisve/terraform-aws-autoscaling-group/actions/workflows/terraform.yaml/badge.svg)
 
 # terraform-aws-autoscaling-group
 Example of Terraform AWS EC2 autoscaling group
